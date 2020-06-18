@@ -1,6 +1,9 @@
 @import url(//db.onlinewebfonts.com/c/b6968516e7add824ac6ed94c7098bd06?family=CentGothWGL); 
 @font-face {font-family: "CentGothWGL"; src: url("//db.onlinewebfonts.com/t/b6968516e7add824ac6ed94c7098bd06.eot"); src: url("//db.onlinewebfonts.com/t/b6968516e7add824ac6ed94c7098bd06.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/b6968516e7add824ac6ed94c7098bd06.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/b6968516e7add824ac6ed94c7098bd06.woff") format("woff"), url("//db.onlinewebfonts.com/t/b6968516e7add824ac6ed94c7098bd06.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/b6968516e7add824ac6ed94c7098bd06.svg#CentGothWGL") format("svg"); }  
 
+
+
+
 h1, h2, h3, h4, h5, h6{font-family:'open sans';
 }  
 .blog_inner_right h6 { 
